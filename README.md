@@ -1,0 +1,2 @@
+# AzureResourceAvailabilityAnalysis
+Azure Resource Availability Analysis Project
